@@ -1,0 +1,12 @@
+1) Perform the pairwise disjointness test for each rule to show that this grammar allows top-down parsing. Submit this part as a text file h2-1.txt.
+
+•  Given the following grammar:
+S -> aB | b | cC
+    Disjoint
+B -> aB | bS
+    Disjoint
+C -> aaS | b | caB
+    Disjoint
+
+
+pass

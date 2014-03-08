@@ -1,0 +1,19 @@
+run:
+Stephen Drollinger, CMSC330, Homework 2 Parsing grammar
+
+Please input the string you wish to parse:
+caaabccabb
+Your String is: caaabccabb
+input length = 10
+Enter S
+First character is c
+Enter C
+Next character is a
+Next character is a
+Enter C
+improper input detected
+Enter C
+Next character is a
+Next character is a
+Enter C
+BUILD SUCCESSFUL (total time: 1 second)
